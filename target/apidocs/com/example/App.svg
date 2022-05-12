@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="100px" preserveAspectRatio="none" style="width:192px;height:100px;background:#FFFFFF;" version="1.1" viewBox="0 0 192 100" width="192px" zoomAndPan="magnify"><defs/><g><!--MD5=[8ff7a88e43d992f68e2a71bb0de4bb33]
+class com.example.App--><a href="App.html" target="_top" title="App.html" xlink:actuate="onRequest" xlink:href="App.html" xlink:show="new" xlink:title="App.html" xlink:type="simple"><g id="elem_com.example.App"><rect codeLine="5" fill="#F1F1F1" height="65.7969" id="com.example.App" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="145" x="20" y="7"/><ellipse cx="56.6" cy="27.0938" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M59.3656,22.9688 Q59.5219,22.75 59.7094,22.6406 Q59.8969,22.5313 60.1156,22.5313 Q60.4906,22.5313 60.725,22.7969 Q60.9594,23.0469 60.9594,23.6563 L60.9594,25.1094 Q60.9594,25.7188 60.725,25.9844 Q60.4906,26.25 60.1156,26.25 Q59.7719,26.25 59.5688,26.0469 Q59.3656,25.8594 59.2563,25.3438 Q59.2094,24.9844 59.0219,24.7969 Q58.6938,24.4219 58.0844,24.2031 Q57.475,23.9844 56.85,23.9844 Q56.0844,23.9844 55.4438,24.3125 Q54.8188,24.6406 54.3188,25.3906 Q53.8344,26.1406 53.8344,27.1719 L53.8344,28.2656 Q53.8344,29.5 54.725,30.3281 Q55.6156,31.1406 57.2094,31.1406 Q58.1469,31.1406 58.8031,30.8906 Q59.1938,30.7344 59.6156,30.2969 Q59.8813,30.0313 60.0219,29.9531 Q60.1781,29.875 60.3813,29.875 Q60.7094,29.875 60.9594,30.1406 Q61.225,30.3906 61.225,30.7344 Q61.225,31.0781 60.8813,31.4844 Q60.3813,32.0625 59.5844,32.3906 Q58.5063,32.8438 57.2094,32.8438 Q55.6938,32.8438 54.4906,32.2188 Q53.5063,31.7188 52.8188,30.6563 Q52.1313,29.5781 52.1313,28.2969 L52.1313,27.1406 Q52.1313,25.8125 52.7406,24.6719 Q53.3656,23.5156 54.4594,22.9063 Q55.5531,22.2813 56.7875,22.2813 Q57.5219,22.2813 58.1625,22.4531 Q58.8188,22.6094 59.3656,22.9688 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="25" x="95.4" y="26.5332">App</text><text fill="#000000" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="65" x="75.4" y="39.9902">com.example</text><line style="stroke:#181818;stroke-width:0.5;" x1="21" x2="164" y1="47.1875" y2="47.1875"/><ellipse cx="31" cy="58.1875" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="119" x="40" y="65.7207">main(String[]): void</text></g></a><rect height="12.5781" style="stroke:#00000000;stroke-width:1.0;fill:none;" width="184" x="0" y="79.7969"/><text fill="#888888" font-family="sans-serif" font-size="10" lengthAdjust="spacing" textLength="184" x="0" y="90.1777">UMLDoclet 2.0.17, PlantUML 1.2022.5</text><!--MD5=[4e78381e3b3b39c3aa0012317e7b4d2e]
+@startuml
+    set namespaceSeparator none
+    hide empty fields
+    hide empty methods
+
+    class "<size:14>App\n<size:10>com.example" as com.example.App [[App.html]] {
+        {static} +main(String[]): void
+    }
+
+    center footer UMLDoclet 2.0.17, PlantUML 1.2022.5
+@enduml
+
+PlantUML version 1.2022.5(Sat Apr 30 12:55:52 CEST 2022)
+(APACHE source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: UTF-8
+Language: de
+Country: DE
+--></g></svg>

@@ -1,0 +1,24 @@
+-doclet
+'nl.talsmasoftware.umldoclet.UMLDoclet'
+-docletpath
+'C:/Users/felix/.m2/repository/nl/talsmasoftware/umldoclet/2.0.17/umldoclet-2.0.17.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'I:/Felix Nextcloud/Schule/BK/MI/MI1AU/xxx_videos/PlantUML/repo/demo/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2022. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'I:/Felix Nextcloud/Schule/BK/MI/MI1AU/xxx_videos/PlantUML/repo/demo/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'demo 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'demo 1.0-SNAPSHOT API'
